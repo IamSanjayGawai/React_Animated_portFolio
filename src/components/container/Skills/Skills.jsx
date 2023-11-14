@@ -33,7 +33,7 @@ const Skills = () => {
         <button
           onClick={() => setActive(3)}
           className={active === 3 ? "active" : ""}
-        >Certicates</button>
+        >Certificates</button>
         <button
           onClick={() => setActive(4)}
           className={active === 4 ? "active" : ""}

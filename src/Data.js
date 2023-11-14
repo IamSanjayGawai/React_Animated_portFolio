@@ -141,8 +141,8 @@ export const workImages = [
     img: work3,
     name: "Portfolio1",
     category: "web",
-    githublink:'',
-    livelink:''
+    githublink:'https://github.com/IamSanjayGawai/React_Animated_portFolio',
+    livelink:'https://sanjaygawai-portfolio-react.netlify.app/'
   },
   {
     id: 3,
